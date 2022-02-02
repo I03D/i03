@@ -2,12 +2,19 @@
 	width: 300px;
 	height: 300px;
 	border: 1px solid red;
-	border-color: blue;
+	border-color: green;
+	margin: 30px;
 }
 #child {
 	height: 230px;
 	width: 230px;
 	border: 1px solid green;
 	margin: 30px;
-	border-color: yellow;
+	border-color: red;
+}
+#mainparent {
+	height: 370px;
+	width: 370px;
+	border: 1px solid green;
+	border-color: blue;
 }
